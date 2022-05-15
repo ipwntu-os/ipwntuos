@@ -1,0 +1,33 @@
+#####################
+# Kali Applications #
+#####################
+kali-linux-light
+
+#####################
+# Graphical Desktop #
+#####################
+xorg
+e17
+
+#####################
+# Tweak Default Cfg #
+#####################
+libeet-bin
+
+#####################
+# iPwntU System Cfg #
+#####################
+debian-installer-launcher
+alsa-tools
+locales-all
+dconf-tools
+openssl
+curl
+tor
+macchanger
+bleachbit
+wine
+gnupg
+gpa
+cryptsetup
+protonvpn
